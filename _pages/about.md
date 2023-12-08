@@ -18,7 +18,25 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-[Download CV](../files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Email](zkw21@mails.tsinghua.edu.cn) / [WeChat](../images/Wechat.jpg)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Email](zkw21@mails.tsinghua.edu.cn) / [WeChat](https://kevin-thu.github.io/homepage/images/Wechat.jpg)
+
+
+Publications
+======
+* DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
+
+Experience
+======
+* Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2023.11
+* Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
+* Undergraduate student, Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
+
+Honors and Awards
+======
+* National Scholarship (Highest Honor for undergraduates in China, ∼Top 0.2%), 2023
+* Second Prize (3 / 109), The Jittor AI Challenge (Image Generation Track), 2023
+* Tsinghua University Comprehensive Excellence Scholarship (Top 5%), 2022
+* Meritorious Winner (Top 10%), American Mathematical Contest in Modeling, 2022
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
