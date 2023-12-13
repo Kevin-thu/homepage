@@ -18,22 +18,22 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Email](zkw21@mails.tsinghua.edu.cn) / [WeChat](https://kevin-thu.github.io/homepage/images/Wechat.jpg)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) /  [WeChat](https://kevin-thu.github.io/homepage/images/Wechat.jpg)
 
 
-Publications
+Publications / Preprints
 ======
-* DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** ArXiv 2023.12 ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher?tab=readme-ov-file))
 
 Experience
 ======
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2023.11
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
-* Undergraduate student, Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
+* Undergraduate student (GPA: **3.95/4.0**), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
 
 Honors and Awards
 ======
-* National Scholarship (Highest Honor for undergraduates in China, ∼Top 0.2%), 2023
+* **National Scholarship** (Highest Honor for undergraduates in China, ∼Top 0.2%), 2023
 * Second Prize (3 / 109), The Jittor AI Challenge (Image Generation Track), 2023
 * Tsinghua University Comprehensive Excellence Scholarship (Top 5%), 2022
 * Meritorious Winner (Top 10%), American Mathematical Contest in Modeling, 2022

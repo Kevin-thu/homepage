@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin Zhang"
+title                    : "Kaiwen Zhang"
 title_separator          : "-"
-name                     : &name "Kevin Zhang"
+name                     : &name "Kaiwen Zhang"
 description              : &description "Junior Undergraduate at Tsinghua University"
 url                      : https://kevin-thu.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin (Kaiwen) Zhang 张凯文"
+  name             : "Kaiwen (Kevin) Zhang 张凯文"
   avatar           : "Kevin.png"
   bio              : "Junior Undergraduate at Tsinghua University"
   location         : "Beijing, China"
