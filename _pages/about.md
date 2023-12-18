@@ -18,7 +18,7 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) /  [WeChat](https://kevin-thu.github.io/homepage/images/Wechat.jpg)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw) / [WeChat](https://kevin-thu.github.io/homepage/images/Wechat.jpg)
 
 
 Publications / Preprints
