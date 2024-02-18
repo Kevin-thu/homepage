@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I am a junior undergraduate student at Tsinghua University, majoring in Computer Science and Technology.
-I am fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
+Currently, I am fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
 I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Knowledge Engineering Group (KEG), THU](http://keg.cs.tsinghua.edu.cn/).
 
 My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
@@ -18,18 +18,18 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw) / [WeChat](https://kevin-thu.github.io/homepage/images/Wechat.jpg)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw) / [Email](zkw21@mails.tsinghua.edu.cn)
 
 
 Publications / Preprints
 ======
-* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** ArXiv 2023.12 ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher?tab=readme-ov-file))
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** ArXiv 2023.12 ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher?tab=readme-ov-file))
 
 Experience
 ======
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2023.11
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
-* Undergraduate student (GPA: **3.95/4.0**), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
+* Undergraduate student (GPA: **3.95/4.0, Top 5%**), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
 
 Honors and Awards
 ======
