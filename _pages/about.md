@@ -18,7 +18,7 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-Email: zkw21@mails.tsinghua.edu.cn
+Contact me: zkw21@mails.tsinghua.edu.cn
 
 [Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw)
 
