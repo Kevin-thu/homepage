@@ -18,7 +18,9 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw) / [Email](zkw21@mails.tsinghua.edu.cn)
+Email: zkw21@mails.tsinghua.edu.cn
+
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw)
 
 
 Publications / Preprints
@@ -29,7 +31,7 @@ Experience
 ======
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2024.01
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
-* Undergraduate student (GPA: **3.95/4.0, Top 5%**), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
+* Undergraduate student (GPA: 3.95/4.0, Top 5%), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
 
 Honors and Awards
 ======
