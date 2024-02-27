@@ -25,7 +25,7 @@ Contact: zkw21@mails.tsinghua.edu.cn
 
 Publications / Preprints
 ======
-* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** ArXiv 2023.12 ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher?tab=readme-ov-file))
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher))
 
 Experience
 ======
