@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 Hi! I am a junior undergraduate student at Tsinghua University, majoring in Computer Science and Technology.
-Currently, I am fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
+I am fortunate to visit Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer.
+Previously, I have spent a wonderful summer interning at [Shanghai AI Lab](https://www.shlab.org.cn/) and was fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
 I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Knowledge Engineering Group (KEG), THU](http://keg.cs.tsinghua.edu.cn/).
 
 My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
@@ -18,9 +19,9 @@ My research interests lie in the area of computer vision, deep learning and comp
 * Image, Video and 3D Generation and Manipulation
 <!-- * AI-Human Collaborative Content Creation -->
 
-Contact: zkw21@mails.tsinghua.edu.cn
+Contact: zkw21@mails.tsinghua.edu.cn / zkw@stanford.edu
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) / [Blog](https://kevin-thu.github.io/) / [Twitter](https://twitter.com/sze68zkw)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.1) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
 
 
 Publications / Preprints
@@ -29,16 +30,18 @@ Publications / Preprints
 
 Experience
 ======
+* Undergraduate Visiting Research Intern, Stanford University, 2024.06 - Present
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2024.01
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
 * Undergraduate student (GPA: 3.95/4.0, Top 5%), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
 
 Honors and Awards
 ======
-* **National Scholarship** (Highest Honor for undergraduates in China, ∼Top 0.2%), 2023
+* SenseTime Scholarship, 2024
+* National Scholarship, 2023
 * Second Prize (3 / 109), The Jittor AI Challenge (Image Generation Track), 2023
-* Tsinghua University Comprehensive Excellence Scholarship (Top 5%), 2022
-* Meritorious Winner (Top 10%), American Mathematical Contest in Modeling, 2022
+* Tsinghua University Comprehensive Excellence Scholarship, 2022
+* Meritorious Winner, American Mathematical Contest in Modeling, 2022
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
