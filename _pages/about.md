@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I am a junior undergraduate student at Tsinghua University, majoring in Computer Science and Technology.
-I am fortunate to visit Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer.
+I will visit Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer.
 Previously, I have spent a wonderful summer interning at [Shanghai AI Lab](https://www.shlab.org.cn/) and was fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
 I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Knowledge Engineering Group (KEG), THU](http://keg.cs.tsinghua.edu.cn/).
 
@@ -21,7 +21,7 @@ My research interests lie in the area of computer vision, deep learning and comp
 
 Contact: zkw21@mails.tsinghua.edu.cn / zkw@stanford.edu
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.1) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.02) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
 
 
 Publications / Preprints
