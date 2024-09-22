@@ -40,7 +40,7 @@ Honors and Awards
 ======
 * China Computer Federation (CCF) Outstanding Student, 2024
 * SenseTime Scholarship (25 undergraduates all over China), 2024
-* National Scholarship (Highest honor for undergraduates in China), 2024
+* National Scholarship (Highest honor for undergraduates in China), 2023
 * Second Prize (3 / 109), The Jittor AI Challenge (Image Generation Track), 2023
 * Tsinghua University Comprehensive Excellence Scholarship, 2022
 * Meritorious Winner, American Mathematical Contest in Modeling, 2022
