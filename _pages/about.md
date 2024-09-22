@@ -34,7 +34,7 @@ Experience
 * Undergraduate Visiting Research Intern (Remote), Stanford University, 2024.06 - Present
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2024.01
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
-* Undergraduate student (GPA: 3.95/4.0, Top 5%), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
+* Undergraduate student (GPA: 3.96/4.0, Top 3%), Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
 
 Honors and Awards
 ======
