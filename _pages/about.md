@@ -10,15 +10,17 @@ redirect_from:
 
 Hi! I am a senior undergraduate student at Tsinghua University, majoring in Computer Science and Technology (**GPA: 3.96/4.0, Top 3%**).
 I am currently also a research intern at [Horizon Robotics](https://en.horizon.cc/), working on video generation world model with Dr. [Xiaoxiao Long](https://www.xxlong.site/) and Dr. [Wei Yin](https://yvanyin.net/). 
-I remotely visited Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer.
+<!-- I remotely visited Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer. -->
 Previously, I have spent a wonderful summer interning at [Shanghai AI Lab](https://www.shlab.org.cn/) and was fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
-I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Knowledge Engineering Group (KEG), THU](http://keg.cs.tsinghua.edu.cn/).
+I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Knowledge Engineering Group (KEG), THU](http://keg.cs.tsinghua.edu.cn/) and be admitted to the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program.
 
-My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
+<!-- My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
 * Generative Models, e.g. Diffusion Models
 * Image, Video and 3D Generation and Manipulation
-* Neural Scene Representations and Rendering
+* Neural Scene Representations and Rendering -->
 <!-- * AI-Human Collaborative Content Creation -->
+My primary research interests lie in **computer vision**, with a specific focus on **generative models** and their applications to visual content creation and world model construction.
+My long-term goal is to build knowledgeable, controllable, and creative machine intelligence using generative models that possess a deep understanding of the physical world and have the capability to imagine beyond the world.
 
 Contact: zkw21@mails.tsinghua.edu.cn
 
@@ -27,12 +29,12 @@ Contact: zkw21@mails.tsinghua.edu.cn
 
 Publications / Preprints
 ======
-* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) 400+⭐)
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) 420+⭐)
 
 Experience
 ======
 * Research Intern, Horizon Robotics, 2024.09-Present
-* Undergraduate Visiting Research Intern (Remote), Stanford University, 2024.06 - Present
+<!-- * Undergraduate Visiting Research Intern (Remote), Stanford University, 2024.06 - Present -->
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2024.01
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
 * Undergraduate student, Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
