@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate student at Tsinghua University, majoring in Computer Science and Technology (**GPA: 3.96/4.0, Top 3%**).
+Hi! I am a senior undergraduate student at Tsinghua University, majoring in Computer Science and Technology (**GPA: 3.96/4.0, Top 5 / 180**).
 I am currently also a research intern at [Horizon Robotics](https://en.horizon.cc/), working on video generation world model with Dr. [Xiaoxiao Long](https://www.xxlong.site/) and Dr. [Wei Yin](https://yvanyin.net/). 
 <!-- I remotely visited Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer. -->
 Previously, I have spent a wonderful summer interning at [Shanghai AI Lab](https://www.shlab.org.cn/) and was fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
