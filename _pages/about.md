@@ -19,8 +19,8 @@ I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.
 * Image, Video and 3D Generation and Manipulation
 * Neural Scene Representations and Rendering -->
 <!-- * AI-Human Collaborative Content Creation -->
-My primary research interests lie in **computer vision**, with a specific focus on **generative models** and their applications to visual content creation and world model construction.
-My long-term goal is to build knowledgeable, controllable, and creative machine intelligence using generative models that possess a deep understanding of the physical world and have the capability to imagine beyond the world.
+My primary research interests lie in **computer vision**, with a specific focus on **generative models** and their applications to visual content creation and world model development.
+My long-term goal is to build knowledgeable, controllable, efficient and creative machine intelligence using generative models that possess a deep understanding of the physical world and have the capability to imagine beyond the world.
 
 Contact: zkw21@mails.tsinghua.edu.cn
 
@@ -29,7 +29,7 @@ Contact: zkw21@mails.tsinghua.edu.cn
 
 Publications / Preprints
 ======
-* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [ArXiv](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) 420+⭐)
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* ([Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) / [Demo](https://huggingface.co/spaces/Kevin-thu/DiffMorpher) 430+⭐)
 
 Experience
 ======
