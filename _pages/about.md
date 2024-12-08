@@ -24,7 +24,7 @@ My long-term goal is to build knowledgeable, controllable, efficient and creativ
 
 Contact: zkw21@mails.tsinghua.edu.cn
 
-[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.09) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
+[Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.11) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
 
 
 Publications / Preprints
