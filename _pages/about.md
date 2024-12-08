@@ -30,6 +30,7 @@ Contact: zkw21@mails.tsinghua.edu.cn
 Publications
 ======
 * **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* 
+  
   [Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) ( **430+** ⭐) / [Demo](https://huggingface.co/spaces/Kevin-thu/DiffMorpher)
 
 Experience
