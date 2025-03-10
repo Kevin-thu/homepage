@@ -33,7 +33,7 @@ Publications & Preprints
   ***Epona*: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review* (\*Equal Contribution)
 
 * **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. 
-  **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024
+  **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024*
   [Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) ( **460+** ⭐) / [Demo](https://huggingface.co/spaces/Kevin-thu/DiffMorpher)
 
 Experience
