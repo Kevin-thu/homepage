@@ -27,15 +27,17 @@ Contact: zkw21@mails.tsinghua.edu.cn
 [Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.11) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
 
 
-Publications
+Publications & Preprints
 ======
-* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024* 
-  
-  [Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) ( **430+** ⭐) / [Demo](https://huggingface.co/spaces/Kevin-thu/DiffMorpher)
+* **Kaiwen Zhang\***, Zhenyu Tang*, Xiaotao Hu, Xingang Pan, Xiaoyang Guo, Yuan Liu, Jingwei Huang, Li Yuan, Qian Zhang, Xiaoxiao Long, Xun Cao, Wei Yin. 
+  ***Epona*: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review* (\*Equal Contribution)
+
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024
+  [Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) ( **460+** ⭐) / [Demo](https://huggingface.co/spaces/Kevin-thu/DiffMorpher)
 
 Experience
 ======
-* Research Intern, Horizon Robotics, 2024.09-Present
+* Research Intern, Horizon Robotics, 2024.09 - Present
 <!-- * Undergraduate Visiting Research Intern (Remote), Stanford University, 2024.06 - Present -->
 * Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2024.01
 * Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
