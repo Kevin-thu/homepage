@@ -29,11 +29,11 @@ Contact: zkw21@mails.tsinghua.edu.cn
 
 Publications & Preprints
 ======
-* **Kaiwen Zhang\***, Zhenyu Tang\*, Xiaotao Hu, Xingang Pan, Xiaoyang Guo, Yuan Liu, Jingwei Huang, Li Yuan, Qian Zhang, Xiaoxiao Long, Xun Cao, Wei Yin. 
+* **Kaiwen Zhang\***, Zhenyu Tang\*, Xiaotao Hu, Xingang Pan, Xiaoyang Guo, Yuan Liu, Jingwei Huang, Li Yuan, Qian Zhang, Xiaoxiao Long, Xun Cao, Wei Yin. (\*Equal contribution)
   
-  ***Epona*: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review* (\*Equal Contribution)
+  ***Epona*: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review*
 
-* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. 
+* **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. (✉Corresponding author)
   
   **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024*
   
