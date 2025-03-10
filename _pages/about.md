@@ -31,7 +31,7 @@ Publications & Preprints
 ======
 * **Kaiwen Zhang\***, Zhenyu Tang\*, Xiaotao Hu, Xingang Pan, Xiaoyang Guo, Yuan Liu, Jingwei Huang, Li Yuan, Qian Zhang, Xiaoxiao Long, Xun Cao, Wei Yin. (\*Equal contribution)
   
-  ***Epona*: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review*
+  **Epona: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review*
 
 * **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. (✉Corresponding author)
   
