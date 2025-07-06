@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaiwen Zhang"
 title_separator          : "-"
 name                     : &name "Kaiwen Zhang"
-description              : &description "Junior Undergraduate at Tsinghua University"
+description              : &description ""
 url                      : https://kevin-thu.github.io/homepage # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kevin-thu.github.io/homepage"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Kaiwen (Kevin) Zhang 张凯文"
   avatar           : "Kevin.png"
-  bio              : "Senior Undergraduate at Tsinghua University"
+  bio              : "Undergraduate at Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "zkw21@mails.tsinghua.edu.cn"
+  email            : "sze68zkw@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
