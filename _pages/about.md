@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a senior undergraduate student at Tsinghua University, majoring in Computer Science and Technology (**GPA: 3.96/4.0, Top 5 / 180**).
-I am currently also a research intern at [Horizon Robotics](https://en.horizon.cc/), working on video generation world model with Dr. [Xiaoxiao Long](https://www.xxlong.site/) and Dr. [Wei Yin](https://yvanyin.net/). 
+Hi! I am currently a research intern at [Bytedance / Tiktok](https://www.bytedance.com/en/) Intelligent Creation at San Jose, US, working with Dr. [Liming Jiang](https://liming-jiang.com/) and Dr. [Xin Lu](https://scholar.google.com/citations?user=mFC0wp8AAAAJ&hl=en&oi=ao). 
+I am also an incoming PhD student at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), fortunately to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/).
+I obtained my B.Eng. degree from [Tsinghua University](https://www.tsinghua.edu.cn/) (GPA: 3.95/4.0) in June, 2025, majoring in Computer Science and Technology.
 <!-- I remotely visited Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer. -->
-Previously, I have spent a wonderful summer interning at [Shanghai AI Lab](https://www.shlab.org.cn/) and was fortunate to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/) at [MMLab, NTU](https://www.mmlab-ntu.com/index.html).
-I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Knowledge Engineering Group (KEG), THU](http://keg.cs.tsinghua.edu.cn/) and be admitted to the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program.
+Previously, I also interned at [Horizon Robotics](https://www.horizon.auto/) and [Shanghai AI Lab](https://www.shlab.org.cn/), working closely with Prof. [Xiaoxiao Long](https://www.xxlong.site/) and Dr. [Wei Yin](https://yvanyin.xyz/).
+I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Tsinghua Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/).
 
 <!-- My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
 * Generative Models, e.g. Diffusion Models
@@ -22,7 +23,7 @@ I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.
 My primary research interests lie in **computer vision**, with a specific focus on **generative models** and their applications to visual content creation and world model development.
 My long-term goal is to build knowledgeable, controllable, efficient and creative machine intelligence using generative models that possess a deep understanding of the physical world and have the capability to imagine beyond the world.
 
-Contact: zkw21@mails.tsinghua.edu.cn
+Contact: sze68zkw@gmail.com
 
 [Download CV](https://kevin-thu.github.io/homepage/files/CV.pdf) (Up to 2024.11) / [Blog](https://kevin-thu.github.io/) / [X(Twitter)](https://twitter.com/sze68zkw)
 
@@ -31,29 +32,40 @@ Publications & Preprints
 ======
 * **Kaiwen Zhang\***, Zhenyu Tang\*, Xiaotao Hu, Xingang Pan, Xiaoyang Guo, Yuan Liu, Jingwei Huang, Li Yuan, Qian Zhang, Xiaoxiao Long, Xun Cao, Wei Yin. (\*Equal contribution)
   
-  **Epona: Autoregressive Diffusion World Model for Autonomous Driving** *Under Review*
+  **Epona: Autoregressive Diffusion World Model for Autonomous Driving** *ICCV 2025*
+
+  [Project](https://kevin-thu.github.io/Epona/) / [Paper](https://arxiv.org/abs/2506.24113.pdf) / [Code](https://github.com/Kevin-thu/Epona) ![Github stars](https://img.shields.io/github/stars/Kevin-thu/Epona.svg)
 
 * **Kaiwen Zhang**, Yifan Zhou, Xudong Xu, Xingang Pan✉, Bo Dai. (✉Corresponding author)
   
   **DiffMorpher: Unleashing the Capability of Diffusion Models for Image Morphing** *CVPR 2024*
   
-  [Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/pdf/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) ( **460+** ⭐) / [Demo](https://huggingface.co/spaces/Kevin-thu/DiffMorpher)
+  [Project](https://kevin-thu.github.io/DiffMorpher_page/) / [Paper](https://arxiv.org/abs/2312.07409.pdf) / [Code](https://github.com/Kevin-thu/DiffMorpher) ![Github stars](https://img.shields.io/github/stars/kevin-thu/DiffMorpher.svg)
+
+* Xiaoxiao Long\*, Qingrui Zhao\*, **Kaiwen Zhang\***, Zihao Zhang\*, Dingrui Wang\*, Yumeng Liu\*, Zhengjie Shu\*, Yi Lu\*, Shouzheng Wang\*, Xinzhe Wei\*, Wei Li, Wei Yin, Yao Yao, Jia Pan, Qiu Shen, Ruigang Yang, Xun Cao, Qionghai Dai. (\*Equal contribution)
+  
+  **A Survey: Learning Embodied Intelligence from Physical Simulators and World Models** *Preprint*
+
+  [Paper](https://arxiv.org/abs/2307.08053.pdf) / [Code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) ![Github stars](https://img.shields.io/github/stars/NJU3DV-LoongGroup/Embodied-World-Models-Survey.svg)
 
 Experience
 ======
-* Research Intern, Horizon Robotics, 2024.09 - Present
+* Research Intern, Bytedance Intelligent Creation, San Jose, US, 2025.07 - Present
+* Research Intern, Horizon Robotics, Beijing, China, 2024.09 - 2025.06
 <!-- * Undergraduate Visiting Research Intern (Remote), Stanford University, 2024.06 - Present -->
-* Research Intern, Intelligent Digital Creation Group, Shanghai AI Lab, 2023.07 - 2024.01
-* Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, 2022.09 - 2023.06
-* Undergraduate student, Department of Computer Science and Technology, Tsinghua University, 2021.09 - 2025.07 (Expected)
+* Research Intern, Shanghai AI Lab, Shanghai, China, 2023.07 - 2024.01
+* Research Assistant, Knowledge Engineering Group (KEG), Tsinghua University, Beijing, China, 2022.09 - 2023.06
 
 Honors and Awards
 ======
+* **Outstanding Graduate** of Beijing (Top 3%), 2025
+* **Excellent Graduate** of Tsinghua University (Top 10%), 2025
+* Academic Excellence Scholarship, Tsinghua University, 2024
 * China Computer Federation (CCF) Outstanding Student, 2024
 * **SenseTime Scholarship** (25 undergraduates all over China), 2024
 * **National Scholarship** (Highest honor for undergraduates in China), 2023
 * Second Prize (3 / 109), The Jittor AI Challenge (Image Generation Track), 2023
-* Tsinghua University Comprehensive Excellence Scholarship, 2022
+* Comprehensive Excellence Scholarship, Tsinghua University, 2022
 * Meritorious Winner, American Mathematical Contest in Modeling, 2022
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
