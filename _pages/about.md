@@ -46,7 +46,7 @@ Publications & Preprints
   
   **A Survey: Learning Embodied Intelligence from Physical Simulators and World Models** *Preprint*
 
-  [Paper](https://arxiv.org/abs/2307.08053.pdf) / [Code](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) ![Github stars](https://img.shields.io/github/stars/NJU3DV-LoongGroup/Embodied-World-Models-Survey.svg)
+  [Paper](https://arxiv.org/abs/2307.08053.pdf) / [Github](https://github.com/NJU3DV-LoongGroup/Embodied-World-Models-Survey) ![Github stars](https://img.shields.io/github/stars/NJU3DV-LoongGroup/Embodied-World-Models-Survey.svg)
 
 Experience
 ======
