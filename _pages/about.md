@@ -11,9 +11,9 @@ redirect_from:
 Hi! I am currently a research intern at [Bytedance / Tiktok](https://www.bytedance.com/en/) Intelligent Creation Lab at San Jose, US, working with Dr. [Liming Jiang](https://liming-jiang.com/) and Dr. [Xin Lu](https://scholar.google.com/citations?user=mFC0wp8AAAAJ&hl=en&oi=ao). 
 I am also an incoming PhD student at [MMLab@NTU](https://www.mmlab-ntu.com/index.html), fortunately to be advised by Prof. [Xingang Pan](https://xingangpan.github.io/).
 I obtained my B.Eng. degree from [Tsinghua University](https://www.tsinghua.edu.cn/) (GPA: 3.95/4.0) in June, 2025, majoring in Computer Science and Technology.
-<!-- I remotely visited Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer. -->
 Previously, I also interned at [Horizon Robotics](https://www.horizon.auto/) and [Shanghai AI Lab](https://www.shlab.org.cn/), working closely with Prof. [Xiaoxiao Long](https://www.xxlong.site/) and Dr. [Wei Yin](https://yvanyin.xyz/).
-I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Tsinghua Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/).
+<!-- I remotely visited Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/)'s group at [Stanford University](https://www.stanford.edu/) through the [UGVR](https://engineering.stanford.edu/students-academics/programs/global-engineering-programs/chinese-ugvr) program this summer. -->
+<!-- I was also honored to be advised by Prof. [Jie Tang](http://keg.cs.tsinghua.edu.cn/jietang/) at [Tsinghua Knowledge Engineering Group](http://keg.cs.tsinghua.edu.cn/). -->
 
 <!-- My research interests lie in the area of computer vision, deep learning and computer graphics. I am particularly interested in the following topics:
 * Generative Models, e.g. Diffusion Models
