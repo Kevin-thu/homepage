@@ -111,8 +111,7 @@ h2 {
 
 .one {
   width: 200px;
-  height: auto;
-  aspect-ratio: 16 / 9;
+  height: 112px;
   position: relative;
   display: flex;
   align-items: center;
@@ -136,13 +135,40 @@ h2 {
 .two {
   width: 100%;
   height: 100%;
-  position: static;
+  position: absolute;
+  top: 0;
+  left: 0;
   display: flex;
   align-items: center;
   justify-content: center;
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+}
+
+/* phones: stack each paper's thumbnail above its text, video full width */
+@media (max-width: 600px) {
+  .pubs,
+  .pubs tbody,
+  .pubs tr,
+  .pubs td {
+    display: block;
+    width: auto !important;
+  }
+  .pubs tr {
+    margin-bottom: 28px;
+  }
+  .pubs td {
+    padding: 0 16px !important;
+  }
+  .pubs td + td {
+    padding-top: 10px !important;
+  }
+  .pubs .one {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+  }
 }
 
 .logo-box {
